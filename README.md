@@ -28,7 +28,7 @@ Os campos para preenchimento são:
 * Email;
 * Telefone;
 * Idade;
-* Profissão; e
+* Profissão;
 * Endereço.
 
 ### Produtos
@@ -40,7 +40,7 @@ Os campos para preenchimento são:
 * SKU;
 * Descrição;
 * Categoria;
-* Valor unitário; e
+* Valor unitário;
 * Quantidade.
 
 ## Demonstração
