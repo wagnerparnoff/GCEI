@@ -49,4 +49,4 @@ Para executar o projeto localmente, baixe o código e execute os comandos para i
 `npm install`
 `npm start`
 
-Aplicação no ar em: 
+Aplicação no ar em: https://wagnerparnoff.github.io/GCEI/
